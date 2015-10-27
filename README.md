@@ -36,8 +36,9 @@
 
 #### Research papers (incl. arXiv)
 
-* [Semantics, Representations and Grammars for Deep Learning](http://arxiv.org/abs/1509.08627?resubmit=HN)
-* [Notes on Towards Neural Network-based Reasoning](https://www.evernote.com/shard/s189/sh/54f4534f-3813-44de-8feb-af7180eceb8e/953160fcc0f551cb9855d46cf686375b)
+* [Semantics, Representations and Grammars for Deep Learning; 2015](http://arxiv.org/abs/1509.08627) - David Balduzzi
+* [Towards Neural Network-based Reasoning; 2015](http://arxiv.org/abs/1508.05508) - Baolin Peng, Zhengdong Lu, Hang Li, Kam-Fai Wong
+** [Notes on the paper](https://www.evernote.com/shard/s189/sh/54f4534f-3813-44de-8feb-af7180eceb8e/953160fcc0f551cb9855d46cf686375b)
 * [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank; 2013](http://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf) - Richard Socher, Alex Perelygin, Jean Y. Wu, Jason Chuang,
 Christopher D. Manning, Andrew Y. Ng and Christopher Potts
 * [Text Understanding from Scratch; 2015](http://arxiv.org/abs/1502.01710) - Xiang Zhang, Yann LeCun
