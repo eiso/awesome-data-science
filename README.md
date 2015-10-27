@@ -1,4 +1,4 @@
-# Awesome Data Analysis
+# Awesome Data Science
 
 #### Interesting articles
 
@@ -23,8 +23,16 @@
 * [How Google Translate squeezes deep learning onto a phone](http://googleresearch.blogspot.com.es/2015/07/how-google-translate-squeezes-deep.html)
 * [Evolution of Deep learning models](http://www.datasciencecentral.com/profiles/blogs/evolution-of-deep-learning-models)
 * [AMA Geoffrey Hinton](https://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton)
-* []()
-* []()
+* [Baidu explains how it’s mastering Mandarin with deep learning](https://medium.com/s-c-a-l-e/how-baidu-mastered-mandarin-with-deep-learning-and-lots-of-data-1d94032564a5#.bok5v83am)
+* [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)
+* [Geoffrey Hinton on max pooling (reddit AMA)](https://mirror2image.wordpress.com/2014/11/11/geoffrey-hinton-on-max-pooling-reddit-ama/)
+* [Algorithms of the Mind](https://medium.com/deep-learning-101/algorithms-of-the-mind-10eb13f61fc4#.fspx41ou5)
+* [The elastic brain](http://aeon.co/magazine/psychology/can-i-make-my-brain-as-plastic-as-a-childs/)
+* [How does word2vec work?](https://www.quora.com/How-does-word2vec-work)
+* [A conversation with Sussman on AI and asynchronous programming](http://dustycloud.org/blog/sussman-on-ai/)
+* [The Brain vs Deep Learning Part I: Computational Complexity — Or Why the Singularity Is Nowhere Near](http://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity/)
+* [Learning from the best](http://blog.kaggle.com/2014/08/01/learning-from-the-best/)
+* [Data has a shape](http://radar.oreilly.com/2015/07/data-has-a-shape.html)
 
 #### Research papers (incl. arXiv)
 
@@ -39,7 +47,9 @@
 
 * [Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP/blob/master/README.md#deep-learning-for-nlp-resources)
 * [What NLP problems has deep learning or neural networks been applied to successfully?](https://www.quora.com/What-NLP-problems-has-deep-learning-or-neural-networks-been-applied-to-successfully)
+* [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 * [How to actually learn data science](https://www.dataquest.io/blog/how-to-actually-learn-data-science/)
+* [GitXiv — Collaborative Open Computer Science](https://medium.com/@samim/gitxiv-collaborative-open-computer-science-e5fea734cd45#.6pw4sxbv2)
 
 #### Interesting news articles
 
@@ -52,9 +62,7 @@
 * [Facebook AI Director Yann LeCun on His Quest to Unleash Deep Learning and Make Machines Smarter](http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/facebook-ai-director-yann-lecun-on-deep-learning#qaTopicTwo)
 * [Biggest Neural Network Ever Pushes AI Deep Learning](http://spectrum.ieee.org/tech-talk/computing/software/biggest-neural-network-ever-pushes-ai-deep-learning)
 * [The Yahoo Behind Fresh Deep Learning Approaches at Flickr](http://www.theplatform.net/2015/09/03/the-yahoo-behind-fresh-deep-learning-approaches-at-flickr/)
-* []()
-* []()
-
+* [Neuroscience: The Man Who Saw Time Stand Still](http://www.bbc.com/future/story/20140624-the-man-who-saw-time-freeze)
 
 #### Interesting videos
 
@@ -64,3 +72,9 @@
 #### Online courses
 
 * [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+* [NVIDIA Deep Learning Courses](https://developer.nvidia.com/deep-learning-courses)
+
+#### Opinions on ethics
+
+* [Machine intelligence, part 1/2](http://blog.samaltman.com/machine-intelligence-part-2)
+* [The AI Revolution: The Road to Superintelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
