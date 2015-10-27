@@ -19,10 +19,17 @@
 * [Growing Pains for Deep Learning](http://m.cacm.acm.org/news/188737-growing-pains-for-deep-learning/fulltext)
 * [Understanding Natural Language Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
 * [Generating Magic cards using deep, recurrent neural networks](http://www.mtgsalvation.com/forums/creativity/custom-card-creation/612057-generating-magic-cards-using-deep-recurrent-neural)
-* [Notes on Towards Neural Network-based Reasoning](https://www.evernote.com/shard/s189/sh/54f4534f-3813-44de-8feb-af7180eceb8e/953160fcc0f551cb9855d46cf686375b)
 * [Google voice search: faster and more accurate](http://googleresearch.blogspot.com.es/2015/09/google-voice-search-faster-and-more.html)
 * [How Google Translate squeezes deep learning onto a phone](http://googleresearch.blogspot.com.es/2015/07/how-google-translate-squeezes-deep.html)
-* 
+* [Evolution of Deep learning models](http://www.datasciencecentral.com/profiles/blogs/evolution-of-deep-learning-models)
+* [AMA Geoffrey Hinton](https://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton)
+* []()
+* []()
+
+#### Research papers (incl. arXiv)
+
+* [Semantics, Representations and Grammars for Deep Learning](http://arxiv.org/abs/1509.08627?resubmit=HN)
+* [Notes on Towards Neural Network-based Reasoning](https://www.evernote.com/shard/s189/sh/54f4534f-3813-44de-8feb-af7180eceb8e/953160fcc0f551cb9855d46cf686375b)
 
 #### Online books
 
@@ -32,6 +39,7 @@
 
 * [Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP/blob/master/README.md#deep-learning-for-nlp-resources)
 * [What NLP problems has deep learning or neural networks been applied to successfully?](https://www.quora.com/What-NLP-problems-has-deep-learning-or-neural-networks-been-applied-to-successfully)
+* [How to actually learn data science](https://www.dataquest.io/blog/how-to-actually-learn-data-science/)
 
 #### Interesting news articles
 
@@ -43,7 +51,7 @@
 * [Neural network chip built using memristors](http://arstechnica.com/science/2015/05/neural-network-chip-built-using-memristors/)
 * [Facebook AI Director Yann LeCun on His Quest to Unleash Deep Learning and Make Machines Smarter](http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/facebook-ai-director-yann-lecun-on-deep-learning#qaTopicTwo)
 * [Biggest Neural Network Ever Pushes AI Deep Learning](http://spectrum.ieee.org/tech-talk/computing/software/biggest-neural-network-ever-pushes-ai-deep-learning)
-* []()
+* [The Yahoo Behind Fresh Deep Learning Approaches at Flickr](http://www.theplatform.net/2015/09/03/the-yahoo-behind-fresh-deep-learning-approaches-at-flickr/)
 * []()
 * []()
 
