@@ -33,6 +33,10 @@
 * [The Brain vs Deep Learning Part I: Computational Complexity — Or Why the Singularity Is Nowhere Near](http://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity/)
 * [Learning from the best](http://blog.kaggle.com/2014/08/01/learning-from-the-best/)
 * [Data has a shape](http://radar.oreilly.com/2015/07/data-has-a-shape.html)
+* [Petabyte-Scale Text Processing with Spark](http://tech.grammarly.com/blog/posts/Petabyte-Scale-Text-Processing-with-Spark.html)
+* [Document Clustering With Python](http://brandonrose.org/clustering)
+* [A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.).](https://github.com/szilard/benchm-ml)
+* [Faster deep learning with GPUs and Theano](http://blog.dominodatalab.com/gpu-computing-and-deep-learning/)
 
 #### Research papers (incl. arXiv)
 
@@ -81,9 +85,11 @@ Christopher D. Manning, Andrew Y. Ng and Christopher Potts
 
 * [Interview with Google's AI and Deep Learning 'Godfather' Geoffrey Hinton](https://www.youtube.com/watch?v=1Wp3IIpssEc) 
 * [Why Google believes nothing will be lost in translation](http://www.bbc.com/news/technology-33481535)
+* [List of talks on Deep Learning](http://news.startup.ml/news/109)
 
 #### Online courses
 
+* [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 * [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 * [NVIDIA Deep Learning Courses](https://developer.nvidia.com/deep-learning-courses)
 
@@ -91,3 +97,7 @@ Christopher D. Manning, Andrew Y. Ng and Christopher Potts
 
 * [Machine intelligence, part 1/2](http://blog.samaltman.com/machine-intelligence-part-2)
 * [The AI Revolution: The Road to Superintelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+
+#### Other
+
+* [Git from the bottom up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
