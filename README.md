@@ -55,6 +55,7 @@ Christopher D. Manning, Andrew Y. Ng and Christopher Potts
 * [Is deep learning really necessary for word embeddings?; 2013](http://lebret.ch/wp-content/uploads/2013/12/nips2013.pdf) - Remi Lebret, Joel Legrand, Ronan Collobert
 * [Intriguing properties of neural networks; 2013](http://arxiv.org/abs/1312.6199) - Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus
 * [Building Program Vector Representations for Deep Learning; 2014](http://arxiv.org/abs/1409.3358) - Lili Mou, Ge Li, Yuxuan Liu, Hao Peng, Zhi Jin, Yan Xu, Lu Zhang
+* [Who Wrote This Code? Identifying the Authors of Program Binaries](http://ftp.cs.wisc.edu/paradyn/papers/Rosenblum11Authorship.pdf) - Nathan Rosenblum, Xiaojin Zhu, Barton P. Miller
  
 #### Online books
 
