@@ -1,5 +1,45 @@
 # Awesome Data Science
 
+#### Online books
+
+* [Neural Networks and Deep Learning _by_ Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
+
+#### Online Resource Collections
+
+* [Tutorials for TensorFlow](http://www.tensorflow.org/tutorials) _The best neural network tutorials I've come across_
+* [Christopher Olah's Blog](http://colah.github.io/) _One of the best resources for truly understanding neural networks_
+* [Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP/blob/master/README.md#deep-learning-for-nlp-resources)
+* [What NLP problems has deep learning or neural networks been applied to successfully?](https://www.quora.com/What-NLP-problems-has-deep-learning-or-neural-networks-been-applied-to-successfully)
+* [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
+* [How to actually learn data science](https://www.dataquest.io/blog/how-to-actually-learn-data-science/)
+* [GitXiv — Collaborative Open Computer Science](https://medium.com/@samim/gitxiv-collaborative-open-computer-science-e5fea734cd45#.6pw4sxbv2)
+
+#### Online courses
+
+* [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+* [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+* [NVIDIA Deep Learning Courses](https://developer.nvidia.com/deep-learning-courses)
+
+
+#### Research papers (incl. arXiv)
+
+* [Semantics, Representations and Grammars for Deep Learning; 2015](http://arxiv.org/abs/1509.08627) - David Balduzzi
+* [Towards Neural Network-based Reasoning; 2015](http://arxiv.org/abs/1508.05508) - Baolin Peng, Zhengdong Lu, Hang Li, Kam-Fai Wong
+   * [Notes on the paper](https://www.evernote.com/shard/s189/sh/54f4534f-3813-44de-8feb-af7180eceb8e/953160fcc0f551cb9855d46cf686375b)
+* [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank; 2013](http://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf) - Richard Socher, Alex Perelygin, Jean Y. Wu, Jason Chuang,
+Christopher D. Manning, Andrew Y. Ng and Christopher Potts
+* [Text Understanding from Scratch; 2015](http://arxiv.org/abs/1502.01710) - Xiang Zhang, Yann LeCun
+* [Dropout: A Simple Way to Prevent Neural Networks from Overfitting; 2013](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) - Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov
+* [Learning To Execute; 2014](http://arxiv.org/abs/1410.4615) - Wojciech Zaremba, Ilya Sutskever
+* [When Are Tree Structures Necessary for Deep Learning of Representations?; 2015](http://arxiv.org/abs/1503.00185) - Jiwei Li, Minh-Thang Luong, Dan Jurafsky, Eudard Hovy
+* [Distributed Representations of Sentences and Documents; 2014](https://cs.stanford.edu/~quocle/paragraph_vector.pdf) - Quoc Le, Tomas Mikolov
+* [Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets; 2015](http://arxiv.org/abs/1503.01007) - Armand Joulin, Tomas Mikolov
+* [Multi-View Learning of Word Embeddings via CCA; 2011](http://papers.nips.cc/paper/4193-multi-view-learning-of-word-embeddings-via-cca.pdf) - Paramveer S. Dhillon, Dean Foster, Lyle Ungar
+* [Is deep learning really necessary for word embeddings?; 2013](http://lebret.ch/wp-content/uploads/2013/12/nips2013.pdf) - Remi Lebret, Joel Legrand, Ronan Collobert
+* [Intriguing properties of neural networks; 2013](http://arxiv.org/abs/1312.6199) - Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus
+* [Building Program Vector Representations for Deep Learning; 2014](http://arxiv.org/abs/1409.3358) - Lili Mou, Ge Li, Yuxuan Liu, Hao Peng, Zhi Jin, Yan Xu, Lu Zhang
+* [Who Wrote This Code? Identifying the Authors of Program Binaries; 2011](http://ftp.cs.wisc.edu/paradyn/papers/Rosenblum11Authorship.pdf) - Nathan Rosenblum, Xiaojin Zhu, Barton P. Miller
+
 #### Interesting articles
 
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
@@ -38,37 +78,6 @@
 * [A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.).](https://github.com/szilard/benchm-ml)
 * [Faster deep learning with GPUs and Theano](http://blog.dominodatalab.com/gpu-computing-and-deep-learning/)
 
-#### Research papers (incl. arXiv)
-
-* [Semantics, Representations and Grammars for Deep Learning; 2015](http://arxiv.org/abs/1509.08627) - David Balduzzi
-* [Towards Neural Network-based Reasoning; 2015](http://arxiv.org/abs/1508.05508) - Baolin Peng, Zhengdong Lu, Hang Li, Kam-Fai Wong
-   * [Notes on the paper](https://www.evernote.com/shard/s189/sh/54f4534f-3813-44de-8feb-af7180eceb8e/953160fcc0f551cb9855d46cf686375b)
-* [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank; 2013](http://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf) - Richard Socher, Alex Perelygin, Jean Y. Wu, Jason Chuang,
-Christopher D. Manning, Andrew Y. Ng and Christopher Potts
-* [Text Understanding from Scratch; 2015](http://arxiv.org/abs/1502.01710) - Xiang Zhang, Yann LeCun
-* [Dropout: A Simple Way to Prevent Neural Networks from Overfitting; 2013](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) - Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov
-* [Learning To Execute; 2014](http://arxiv.org/abs/1410.4615) - Wojciech Zaremba, Ilya Sutskever
-* [When Are Tree Structures Necessary for Deep Learning of Representations?; 2015](http://arxiv.org/abs/1503.00185) - Jiwei Li, Minh-Thang Luong, Dan Jurafsky, Eudard Hovy
-* [Distributed Representations of Sentences and Documents; 2014](https://cs.stanford.edu/~quocle/paragraph_vector.pdf) - Quoc Le, Tomas Mikolov
-* [Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets; 2015](http://arxiv.org/abs/1503.01007) - Armand Joulin, Tomas Mikolov
-* [Multi-View Learning of Word Embeddings via CCA; 2011](http://papers.nips.cc/paper/4193-multi-view-learning-of-word-embeddings-via-cca.pdf) - Paramveer S. Dhillon, Dean Foster, Lyle Ungar
-* [Is deep learning really necessary for word embeddings?; 2013](http://lebret.ch/wp-content/uploads/2013/12/nips2013.pdf) - Remi Lebret, Joel Legrand, Ronan Collobert
-* [Intriguing properties of neural networks; 2013](http://arxiv.org/abs/1312.6199) - Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus
-* [Building Program Vector Representations for Deep Learning; 2014](http://arxiv.org/abs/1409.3358) - Lili Mou, Ge Li, Yuxuan Liu, Hao Peng, Zhi Jin, Yan Xu, Lu Zhang
-* [Who Wrote This Code? Identifying the Authors of Program Binaries; 2011](http://ftp.cs.wisc.edu/paradyn/papers/Rosenblum11Authorship.pdf) - Nathan Rosenblum, Xiaojin Zhu, Barton P. Miller
- 
-#### Online books
-
-* [Neural Networks and Deep Learning _by_ Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
-
-#### Online Resource Collections
-
-* [Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP/blob/master/README.md#deep-learning-for-nlp-resources)
-* [What NLP problems has deep learning or neural networks been applied to successfully?](https://www.quora.com/What-NLP-problems-has-deep-learning-or-neural-networks-been-applied-to-successfully)
-* [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
-* [How to actually learn data science](https://www.dataquest.io/blog/how-to-actually-learn-data-science/)
-* [GitXiv — Collaborative Open Computer Science](https://medium.com/@samim/gitxiv-collaborative-open-computer-science-e5fea734cd45#.6pw4sxbv2)
-
 #### Interesting news articles
 
 * [You're Using Neural Networks Every Day Online—Here's How They Work](http://gizmodo.com/youre-using-neural-networks-every-day-online-heres-h-1711616296) 
@@ -87,12 +96,6 @@ Christopher D. Manning, Andrew Y. Ng and Christopher Potts
 * [Interview with Google's AI and Deep Learning 'Godfather' Geoffrey Hinton](https://www.youtube.com/watch?v=1Wp3IIpssEc) 
 * [Why Google believes nothing will be lost in translation](http://www.bbc.com/news/technology-33481535)
 * [List of talks on Deep Learning](http://news.startup.ml/news/109)
-
-#### Online courses
-
-* [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
-* [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-* [NVIDIA Deep Learning Courses](https://developer.nvidia.com/deep-learning-courses)
 
 #### Opinions on ethics
 
