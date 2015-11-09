@@ -1,5 +1,7 @@
 # Awesome Data Science
 
+_The below list is by no means an exhaustive list of data science, it is a set of my personal book marks of interesting reads, primarily related to neural networks. It also is heavily skewed towards resources that are useful for [source{d}](http://sourced.tech)_
+
 #### Online books
 
 * [Neural Networks and Deep Learning _by_ Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
