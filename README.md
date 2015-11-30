@@ -4,6 +4,7 @@ _The below list is by no means an exhaustive list of data science, it is a set o
 
 #### Online books
 
+* [Deep Learning _by_ Ian Goodfellow, Aaron Courville, and Yoshua Bengio](http://goodfeli.github.io/dlbook/)
 * [Neural Networks and Deep Learning _by_ Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
 
 #### Online Resource Collections
