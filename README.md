@@ -22,7 +22,7 @@ _The below list is by no means an exhaustive list of data science, it is a set o
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 * [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 * [NVIDIA Deep Learning Courses](https://developer.nvidia.com/deep-learning-courses)
-
+* [YC HN thread with interesting courses](https://news.ycombinator.com/item?id=10644518)
 
 #### Research papers (incl. arXiv)
 
